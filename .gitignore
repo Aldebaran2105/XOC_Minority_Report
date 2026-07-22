@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+output/
+uploads/
+*.tmp.docx
+mock_db/minority_report_history.json
